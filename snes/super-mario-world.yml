@@ -1,0 +1,21 @@
+---
+title: Super Mario World
+platform: snes
+release_date: 23-08-1991
+description: "The game centers on the quest of Mario and Luigi to save Dinosaur Land from Bowser, the series' antagonist. The two brothers must travel across seven worlds to restore order to Dinosaur Land. It built on the gameplay of previous Mario games, introducing new power-ups that augment character abilities, and established conventions that were carried over to future games in the series. Super Mario World marks the first appearance of Yoshi, Mario's dinosaur sidekick and riding mount."
+tags: ["mario","luigi","yoshi"]
+media:
+  movies:
+    - https://www.youtube.com/watch?v=htFJTiVH5Ao
+  screenshots:
+    - http://vgboxart.com/boxes/SNES/56149-super-mario-world.png
+  related:
+    - https://en.wikipedia.org/wiki/Super_Mario_World
+roms:
+  - description: "Most accurate"
+    md5sum: 1
+    sha1sum: 1
+    urls:
+      - http://127.0.0.1:9999/roms/supermarioworld.smc
+    emulator_flags:
+  
